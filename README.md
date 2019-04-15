@@ -1,3 +1,2 @@
 # CPTS582
-Yiwen Xu -> Divergent Change
-         -> Shotgun Surgery
+Yiwen Xu -> Divergent Change & Shotgun Surgery
